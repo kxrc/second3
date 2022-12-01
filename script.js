@@ -13,7 +13,7 @@ btn.addEventListener('mouseenter', () => {
 })
 
 btn.addEventListener('click', function(){
- opros.textContent = 'Помилка'
+ opros.textContent = 'Джордан гамно!'
 })
 
 btn1.addEventListener('click', function(){
